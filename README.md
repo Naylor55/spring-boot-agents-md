@@ -37,7 +37,6 @@ https://github.com/Naylor55/spring-boot-agents-md
 - **skill 是快照**。本仓库更新后不会自动同步，需要重装。
 - **不覆盖项目规则**。除非你明确要求生成或更新，否则它不会改动目标项目的规则文件。
 - **只在 Spring Boot 项目触发**。非 Java、非 Spring Boot 项目不应套用。
-- **仓库名建议与 skill 名一致**（`spring-boot-agents-md`）。部分工具会校验 skill 目录名与 frontmatter 中的 `name` 是否相同。
 
 ## 仓库内容
 
