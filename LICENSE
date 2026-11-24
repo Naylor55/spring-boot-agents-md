@@ -1,0 +1,55 @@
+本仓库采用双许可（Dual License），按内容类型区分。
+
+SPDX-License-Identifier: CC-BY-4.0 AND MIT
+
+---
+
+## 一、规范文本：CC BY 4.0
+
+适用于 `README.md`、`AGENTS.md`、`docs/`、`checklists/` 及其他 Markdown 文档内容。
+
+采用 [Creative Commons Attribution 4.0 International License（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/legalcode) 授权。
+
+你可以自由地共享、复制、改编、商用，只需保留署名：
+
+> 来源：spring-boot-agents-md（https://github.com/Naylor55/spring-boot-agents-md）
+> 许可：CC BY 4.0
+
+复制到自己的项目中使用、裁剪、删减小节，属于正常使用，标注来源即可；不需要逐条引用。
+
+---
+
+## 二、代码示例：MIT
+
+适用于文档中出现的 Java、SQL、配置文件等代码片段。
+
+```text
+MIT License
+
+Copyright (c) 2026 The agents-md-spring-boot authors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+---
+
+## 三、说明
+
+- 本仓库未复制任何第三方项目的文本或代码。README 中列出的参考项目仅作为思路来源，各自版权归其作者所有。
+- 提交 PR 即表示同意以相同双许可发布你的贡献。
